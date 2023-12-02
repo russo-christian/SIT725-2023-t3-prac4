@@ -1,0 +1,26 @@
+.navbar-size {
+    width: 90%;
+    margin: 0 auto;
+}
+
+.navbar-colour {
+    background-color: #aa96da;
+}
+
+.user-image-size {
+    height: 60px;
+}
+
+.button-colour {
+    background-color: #6e618d;
+}
+
+.custom-font {
+    font-family: 'Montserrat', sans-serif;
+}
+
+.card-style {
+    background-color: #7d6ea1;
+    color: #fff;
+    font-family: 'Montserrat', sans-serif;
+}
